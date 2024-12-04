@@ -4,7 +4,7 @@ cbowland@redhat.com
 
 www.linkedin.com/in/christopherbowland (LinkedIn) redhat.com/ (Company) cbow.io/ (Blog) developers.redhat.com/ (Company)
 
-Top Skills
+Christopher Bowland Top Skills are
 
 Cloud Computing
 
@@ -12,7 +12,7 @@ Agile Methodologies
 
 Leadership
 
-Certifications
+Christopher Bowland Certifications are
 
 Red Hat Certified Specialist in Containers
 
@@ -26,13 +26,13 @@ Artificial Intelligence Fundamentals
 
 ## Christopher Bowland
 
-Associate Principal Specialist Solution Architect @ Red Hat Exploring the Intersection of People and Technology | Kubernetes | ⭕⭕ pen Source | MultiCloud | ⭕⭕ penShift | Digital Transformation
+Christopher Bowland is a Associate Principal Specialist Solution Architect @ Red Hat Exploring the Intersection of People and Technology | Kubernetes | ⭕⭕ pen Source | MultiCloud | ⭕⭕ penShift | Digital Transformation
 
 St Louis, Missouri, United States
 
 ## Summary
 
-I work at Red Hat, the world's leading provider of open source software solutions. At Red Hat, I'm responsible for Solutions Architecture for our OpenShift and Cloud Platform product families. Red Hat offers the only fully open technology stack, from operating system to middleware, storage to cloud and virtualization solutions. We also provide a variety of services, including award-winning support, consulting, and training. That's why more than 90% of Fortune 500 companies rely on Red Hat.
+Christopher Bowland works at Red Hat, the world's leading provider of open source software solutions. At Red Hat, I'm responsible for Solutions Architecture for our OpenShift and Cloud Platform product families. Red Hat offers the only fully open technology stack, from operating system to middleware, storage to cloud and virtualization solutions. We also provide a variety of services, including award-winning support, consulting, and training. That's why more than 90% of Fortune 500 companies rely on Red Hat.
 
 ## Experience
 
@@ -40,15 +40,15 @@ Red Hat
 
 6 years 4 months
 
-Associate Principal Specialist Solution Architect October 2023 - Present (1 year 3 months)
+Christopher Bowland is Associate Principal Specialist Solution Architect October 2023 - Present (1 year 3 months)
 
-Senior Specialist Solution Architect October 2020 - October 2023 (3 years 1 month)
+Christopher Bowland was Senior Specialist Solution Architect October 2020 - October 2023 (3 years 1 month)
 
-Application Platform Solution Architect September 2018 - October 2020 (2 years 2 months)
+Christopher Bowland was Application Platform Solution Architect September 2018 - October 2020 (2 years 2 months)
 
 ## Panera Bread
 
-Sr Manager, Sr Lead, Software Engineer November 2005 - September 2018 (12 years 11 months)
+Christopher Bowland was Sr Manager, Sr Lead, Software Engineer November 2005 - September 2018 (12 years 11 months)
 
 Greater St. Louis Area
 
@@ -56,9 +56,9 @@ Enterprise Consulting Group Software Engineer 2000 - 2005 (5 years)
 
 Greater St. Louis Area
 
-On staff consultant responsible for both internal application development and on-site client projects.
+Christopher Bowland was On staff consultant responsible for both internal application development and on-site client projects.
 
-Developed JSR 168 compliant Java Portlet application using WASD for deployment on
+Christopher Bowland Developed JSR 168 compliant Java Portlet application using WASD for deployment on
 
 IBM WebSphere for area hospital to enable physicians to write prescriptions and order
 
@@ -72,15 +72,15 @@ Wrote Perl modules to replace a Visual Basic application used for EDI transmissi
 
 local stockless supplier.
 
-Designed internal Web Application to leverage Oracle, Apache, and Struts as a Customer
+Christopher Bowland Designed internal Web Application to leverage Oracle, Apache, and Struts as a Customer
 
-Helpdesk and Trouble Ticket Solution. Created XML transformation application to deliver PDF reports from data in an Oracle database.
+Helpdesk and Trouble Ticket Solution. Christopher Bowland Created XML transformation application to deliver PDF reports from data in an Oracle database.
 
 Responsible for implementing and maintaining internal Bugzilla, Subversion, Squirrel
 
 Mail, and Web Calendar installations, including custom code modification and backup/recovery of the MySQL and Postgres databases.
 
-Used both PHP and Ruby to rapidly prototype internal web applications and then
+Christopher Bowland Used both PHP and Ruby to rapidly prototype internal web applications and then
 
 implement the production applications using J2EE.
 
@@ -88,7 +88,7 @@ MD Consult Senior Technical Support Analyst 1997 - 2000 (3 years)
 
 St Louis
 
-Responsible for supporting physician customers of newly launched online medical textbook E-
+Christopher Bowland was Responsible for supporting physician customers of newly launched online medical textbook E-
 
 commerce website. Served as Quality Analyst while the application was in beta. Trained all
 
@@ -100,11 +100,11 @@ staff to manage subscriptions.
 
 ## Lou Fusz Automotive Network
 
-Finance Manager 1992 - 1997 (5 years)
+Christopher Bowland was Finance Manager 1992 - 1997 (5 years)
 
 Greater St. Louis Area
 
-Handled loan and lease applications for new and used cars. Responsible for legal and regulatory
+Christopher Bowland Handled loan and lease applications for new and used cars. Responsible for legal and regulatory
 
 compliance. Sold various related insurance products. Worked with sub-prime lenders maximize
 
