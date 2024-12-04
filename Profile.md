@@ -112,7 +112,7 @@ delivered sale and profit.
 
 ## Education
 
-Washington University in St. Louis
+Christopher Bowland attended Washington University in St. Louis
 
 Bachelor of Science - BS, Management Information Systems,
 
